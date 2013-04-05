@@ -5,11 +5,6 @@ Content\redplanet512.xnb
 Content\reticule.xnb
 Content\granadeLauncher.xnb
 Content\RPG.xnb
-Content\ButtonFont.xnb
-Content\GrenadeFont.xnb
-Content\test.xnb
-Content\test2.xnb
-Content\AlphaMap.xnb
 Content\Cave1.xnb
 Content\Cave1Texture.xnb
 Content\RunningSolider_NoArms.xnb
@@ -29,5 +24,10 @@ Content\HUDTeslaGun.xnb
 Content\Health_Bar.xnb
 Content\Health_Icon_2.xnb
 Content\HUD_background.xnb
-Content\HUDfont.xnb
 Content\HUDDebugWpn.xnb
+Content\ButtonFont.xnb
+Content\GrenadeFont.xnb
+Content\HUDfont.xnb
+Content\test.xnb
+Content\test2.xnb
+Content\AlphaMap.xnb

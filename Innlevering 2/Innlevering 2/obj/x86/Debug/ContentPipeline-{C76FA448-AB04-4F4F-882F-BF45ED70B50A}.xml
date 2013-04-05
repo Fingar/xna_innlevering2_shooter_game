@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Background.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Background.xnb</Output>
       <Time>2013-03-24T18:37:56.1974592+01:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Dots.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Dots.xnb</Output>
       <Time>2013-03-24T18:37:56.2004317+01:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\circle.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\circle.xnb</Output>
       <Time>2013-03-24T18:37:56.2041936+01:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\redplanet512.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\redplanet512.xnb</Output>
       <Time>2013-03-24T18:37:56.2071977+01:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\reticule.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\reticule.xnb</Output>
       <Time>2013-03-24T18:37:56.2079674+01:00</Time>
     </Item>
     <Item>
@@ -52,7 +52,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\granadeLauncher.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\granadeLauncher.xnb</Output>
       <Time>2013-03-24T18:37:56.2041936+01:00</Time>
     </Item>
     <Item>
@@ -61,53 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RPG.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RPG.xnb</Output>
       <Time>2013-03-24T18:37:56.2032895+01:00</Time>
-    </Item>
-    <Item>
-      <Source>ButtonFont.spritefont</Source>
-      <Name>ButtonFont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ButtonFont.xnb</Output>
-      <Time>2013-03-24T18:37:56.1994596+01:00</Time>
-    </Item>
-    <Item>
-      <Source>GrenadeFont.spritefont</Source>
-      <Name>GrenadeFont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeFont.xnb</Output>
-      <Time>2013-03-24T18:37:56.2014353+01:00</Time>
-    </Item>
-    <Item>
-      <Source>test.wav</Source>
-      <Name>test</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test.xnb</Output>
-      <Time>2013-03-24T18:37:56.2820189+01:00</Time>
-    </Item>
-    <Item>
-      <Source>test2.wav</Source>
-      <Name>test2</Name>
-      <Importer>WavImporter</Importer>
-      <Processor>SoundEffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test2.xnb</Output>
-      <Time>2013-03-24T18:37:56.3570689+01:00</Time>
-    </Item>
-    <Item>
-      <Source>AlphaMap.fx</Source>
-      <Name>AlphaMap</Name>
-      <Importer>EffectImporter</Importer>
-      <Processor>EffectProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AlphaMap.xnb</Output>
-      <Time>2013-03-24T18:37:56.1384164+01:00</Time>
     </Item>
     <Item>
       <Source>Cave1.png</Source>
@@ -115,7 +70,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1.xnb</Output>
       <Time>2013-03-24T22:42:37.912475+01:00</Time>
     </Item>
     <Item>
@@ -124,7 +79,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1Texture.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1Texture.xnb</Output>
       <Time>2013-03-24T22:52:26.2706387+01:00</Time>
     </Item>
     <Item>
@@ -133,7 +88,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RunningSolider_NoArms.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RunningSolider_NoArms.xnb</Output>
       <Time>2013-03-28T14:00:15.1184308+01:00</Time>
     </Item>
     <Item>
@@ -142,7 +97,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderJump.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderJump.xnb</Output>
       <Time>2013-03-28T15:19:04.9297723+01:00</Time>
     </Item>
     <Item>
@@ -151,7 +106,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderStatic.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderStatic.xnb</Output>
       <Time>2013-03-28T15:22:08.8170523+01:00</Time>
     </Item>
     <Item>
@@ -160,7 +115,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderArm.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderArm.xnb</Output>
       <Time>2013-03-31T17:42:51.8376029+02:00</Time>
     </Item>
     <Item>
@@ -169,7 +124,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Hook.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Hook.xnb</Output>
       <Time>2013-04-04T18:36:11.8905906+02:00</Time>
     </Item>
     <Item>
@@ -178,7 +133,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AimLaser.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AimLaser.xnb</Output>
       <Time>2013-04-05T13:32:32.5286356+02:00</Time>
     </Item>
     <Item>
@@ -187,7 +142,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\MachineGun.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\MachineGun.xnb</Output>
       <Time>2013-04-05T13:31:37.7785397+02:00</Time>
     </Item>
     <Item>
@@ -196,7 +151,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ShotGun.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ShotGun.xnb</Output>
       <Time>2013-04-05T13:31:39.0545304+02:00</Time>
     </Item>
     <Item>
@@ -205,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeLauncher.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeLauncher.xnb</Output>
       <Time>2013-04-05T13:25:01.7852061+02:00</Time>
     </Item>
     <Item>
@@ -214,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDGrenadeLauncher.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDGrenadeLauncher.xnb</Output>
       <Time>2013-04-05T14:26:15.3565154+02:00</Time>
     </Item>
     <Item>
@@ -223,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMachineGun.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMachineGun.xnb</Output>
       <Time>2013-04-05T14:26:15.3845148+02:00</Time>
     </Item>
     <Item>
@@ -232,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMissileLauncher.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMissileLauncher.xnb</Output>
       <Time>2013-04-05T14:26:15.4624746+02:00</Time>
     </Item>
     <Item>
@@ -241,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDShotGun.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDShotGun.xnb</Output>
       <Time>2013-04-05T14:26:15.4178837+02:00</Time>
     </Item>
     <Item>
@@ -250,7 +205,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDTeslaGun.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDTeslaGun.xnb</Output>
       <Time>2013-04-05T14:26:15.43962+02:00</Time>
     </Item>
     <Item>
@@ -259,7 +214,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Bar.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Bar.xnb</Output>
       <Time>2013-04-05T14:28:43.9082861+02:00</Time>
     </Item>
     <Item>
@@ -268,7 +223,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Icon_2.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Icon_2.xnb</Output>
       <Time>2013-04-05T15:05:07.6640237+02:00</Time>
     </Item>
     <Item>
@@ -277,17 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUD_background.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUD_background.xnb</Output>
       <Time>2013-04-05T14:28:43.9072867+02:00</Time>
-    </Item>
-    <Item>
-      <Source>HUDfont.spritefont</Source>
-      <Name>HUDfont</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDfont.xnb</Output>
-      <Time>2013-04-05T14:33:03.3225619+02:00</Time>
     </Item>
     <Item>
       <Source>HUDDebugWpn.png</Source>
@@ -295,8 +241,62 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDDebugWpn.xnb</Output>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDDebugWpn.xnb</Output>
       <Time>2013-04-05T14:57:19.7733138+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ButtonFont.spritefont</Source>
+      <Name>ButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ButtonFont.xnb</Output>
+      <Time>2013-03-24T18:37:56.1994596+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GrenadeFont.spritefont</Source>
+      <Name>GrenadeFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeFont.xnb</Output>
+      <Time>2013-03-24T18:37:56.2014353+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUDfont.spritefont</Source>
+      <Name>HUDfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDfont.xnb</Output>
+      <Time>2013-04-05T14:33:03.3225619+02:00</Time>
+    </Item>
+    <Item>
+      <Source>test.wav</Source>
+      <Name>test</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test.xnb</Output>
+      <Time>2013-03-24T18:37:56.2820189+01:00</Time>
+    </Item>
+    <Item>
+      <Source>test2.wav</Source>
+      <Name>test2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test2.xnb</Output>
+      <Time>2013-03-24T18:37:56.3570689+01:00</Time>
+    </Item>
+    <Item>
+      <Source>AlphaMap.fx</Source>
+      <Name>AlphaMap</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AlphaMap.xnb</Output>
+      <Time>2013-03-24T18:37:56.1384164+01:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -305,10 +305,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2Content\</RootDirectory>
-      <LoggerRootDirectory>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

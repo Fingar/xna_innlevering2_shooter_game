@@ -38,3 +38,43 @@ D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Cont
 D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUD_background.xnb
 D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDfont.xnb
 D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDDebugWpn.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Background.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Dots.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\circle.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\redplanet512.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\reticule.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\granadeLauncher.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RPG.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1Texture.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RunningSolider_NoArms.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderJump.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderStatic.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderArm.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Hook.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AimLaser.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\MachineGun.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ShotGun.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeLauncher.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDGrenadeLauncher.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMachineGun.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMissileLauncher.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDShotGun.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDTeslaGun.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Bar.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Icon_2.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUD_background.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDDebugWpn.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ButtonFont.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeFont.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDfont.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test2.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AlphaMap.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Innlevering 2.exe
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Innlevering 2.pdb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\C3.XNA.Primitives2D.dll
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.csprojResolveAssemblyReference.cache
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.exe
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.pdb
