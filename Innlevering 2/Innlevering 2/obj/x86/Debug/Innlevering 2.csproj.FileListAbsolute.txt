@@ -1,0 +1,40 @@
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Background.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Dots.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\circle.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\redplanet512.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\reticule.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\granadeLauncher.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RPG.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ButtonFont.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeFont.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\test2.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AlphaMap.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Innlevering 2.exe
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Innlevering 2.pdb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\C3.XNA.Primitives2D.dll
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.csprojResolveAssemblyReference.cache
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.exe
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.pdb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1Texture.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RunningSolider_NoArms.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderJump.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderStatic.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderArm.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Hook.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AimLaser.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\MachineGun.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\ShotGun.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\GrenadeLauncher.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDGrenadeLauncher.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMachineGun.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDMissileLauncher.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDShotGun.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDTeslaGun.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Bar.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Health_Icon_2.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUD_background.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDfont.xnb
+D:\Arbeider\XNA\xna-innlevering-2\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\HUDDebugWpn.xnb

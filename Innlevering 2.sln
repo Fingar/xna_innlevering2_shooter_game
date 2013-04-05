@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Innlevering 2", "Innlevering 2\Innlevering 2\Innlevering 2.csproj", "{9013749B-B163-46F4-9BD1-11DECBFA1E04}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Innlevering 2Content", "Innlevering 2\Innlevering 2Content\Innlevering 2Content.contentproj", "{C76FA448-AB04-4F4F-882F-BF45ED70B50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9013749B-B163-46F4-9BD1-11DECBFA1E04}.Debug|x86.ActiveCfg = Debug|x86
+		{9013749B-B163-46F4-9BD1-11DECBFA1E04}.Debug|x86.Build.0 = Debug|x86
+		{9013749B-B163-46F4-9BD1-11DECBFA1E04}.Release|x86.ActiveCfg = Release|x86
+		{9013749B-B163-46F4-9BD1-11DECBFA1E04}.Release|x86.Build.0 = Release|x86
+		{C76FA448-AB04-4F4F-882F-BF45ED70B50A}.Debug|x86.ActiveCfg = Debug|x86
+		{C76FA448-AB04-4F4F-882F-BF45ED70B50A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
