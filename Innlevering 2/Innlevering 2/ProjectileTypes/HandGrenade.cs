@@ -14,7 +14,7 @@ namespace Innlevering_2.ProjectileTypes
         private float timer;
 
         public HandGrenade(Player player, Vector2 spawnPosition, Vector2 spawnSpeed, float fuse)
-            : base("RPG", new Rectangle(-5, -5, 10, 10), 0, Vector2.UnitY * 350, 15, 50, true, player, spawnPosition, spawnSpeed)
+            : base("RPG", new Rectangle(-5, -5, 10, 10), 0, Vector2.UnitY * 1250, 15, 50, true, player, spawnPosition, spawnSpeed)
         {
             timer = fuse;
         }

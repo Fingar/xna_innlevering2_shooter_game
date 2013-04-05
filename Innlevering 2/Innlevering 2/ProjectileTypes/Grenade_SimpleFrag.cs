@@ -10,7 +10,7 @@ namespace Innlevering_2.ProjectileTypes
     public class Grenade_SimpleFrag : Projectile
     {
         public Grenade_SimpleFrag(Player player, Vector2 spawnPosition, Vector2 spawnSpeed)
-            : base("RPG", new Rectangle(-5, -5, 10, 10), 0, Vector2.UnitY * 150, 15, 10, true, player, spawnPosition, spawnSpeed)
+            : base("RPG", new Rectangle(-5, -5, 10, 10), 0, Vector2.UnitY * 1150, 15, 10, true, player, spawnPosition, spawnSpeed)
         {
 
         }

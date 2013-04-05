@@ -10,7 +10,7 @@ namespace Innlevering_2.ProjectileTypes
     public class ShotGun_Pellet : Projectile
     {
         public ShotGun_Pellet(Player player, Vector2 spawnPosition, Vector2 spawnSpeed)
-            : base("RPG", new Rectangle(-5, -5, 3, 3), 0, Vector2.UnitY * 10, 15, 3, true, player, spawnPosition, spawnSpeed)
+            : base("RPG", new Rectangle(-5, -5, 3, 3), 0, Vector2.UnitY * 10, 15, 5, true, player, spawnPosition, spawnSpeed)
         {
 
         }

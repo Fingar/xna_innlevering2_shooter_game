@@ -175,34 +175,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="RunningSolider_NoArms.png">
-      <Name>RunningSolider_NoArms</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="SoliderJump.png">
-      <Name>SoliderJump</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="SoliderStatic.png">
-      <Name>SoliderStatic</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="SoliderArm.png">
-      <Name>SoliderArm</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Hook.png">
       <Name>Hook</Name>
       <Importer>TextureImporter</Importer>
@@ -291,6 +263,48 @@
   <ItemGroup>
     <Compile Include="HUDDebugWpn.png">
       <Name>HUDDebugWpn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Solider_Arm.png">
+      <Name>Solider_Arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Solider_Arm_ColorMask.png">
+      <Name>Solider_Arm_ColorMask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Solider_Jump.png">
+      <Name>Solider_Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Solider_Jump_ColorMask.png">
+      <Name>Solider_Jump_ColorMask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Solider_Run.png">
+      <Name>Solider_Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Solider_Run_ColorMask.png">
+      <Name>Solider_Run_ColorMask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Solider_StandStill.png">
+      <Name>Solider_StandStill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Solider_StandStill_ColorMask.png">
+      <Name>Solider_StandStill_ColorMask</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

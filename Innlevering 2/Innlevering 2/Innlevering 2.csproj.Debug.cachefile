@@ -7,10 +7,6 @@ Content\granadeLauncher.xnb
 Content\RPG.xnb
 Content\Cave1.xnb
 Content\Cave1Texture.xnb
-Content\RunningSolider_NoArms.xnb
-Content\SoliderJump.xnb
-Content\SoliderStatic.xnb
-Content\SoliderArm.xnb
 Content\Hook.xnb
 Content\AimLaser.xnb
 Content\MachineGun.xnb
@@ -31,3 +27,11 @@ Content\HUDfont.xnb
 Content\test.xnb
 Content\test2.xnb
 Content\AlphaMap.xnb
+Content\Solider_Arm.xnb
+Content\Solider_Arm_ColorMask.xnb
+Content\Solider_Jump.xnb
+Content\Solider_Jump_ColorMask.xnb
+Content\Solider_Run.xnb
+Content\Solider_Run_ColorMask.xnb
+Content\Solider_StandStill.xnb
+Content\Solider_StandStill_ColorMask.xnb

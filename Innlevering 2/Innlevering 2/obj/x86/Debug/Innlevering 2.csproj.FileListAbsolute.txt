@@ -47,10 +47,6 @@ C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Inn
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RPG.xnb
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1.xnb
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Cave1Texture.xnb
-C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\RunningSolider_NoArms.xnb
-C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderJump.xnb
-C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderStatic.xnb
-C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\SoliderArm.xnb
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Hook.xnb
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\AimLaser.xnb
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\MachineGun.xnb
@@ -78,3 +74,11 @@ C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Inn
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.exe
 C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\obj\x86\Debug\Innlevering 2.pdb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_Arm.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_Arm_ColorMask.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_Jump.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_Jump_ColorMask.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_Run.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_Run_ColorMask.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_StandStill.xnb
+C:\Users\Fingar\Documents\GitHub\xna_innlevering2_shooter_game\Innlevering 2\Innlevering 2\bin\x86\Debug\Content\Solider_StandStill_ColorMask.xnb

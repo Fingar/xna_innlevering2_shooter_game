@@ -21,7 +21,9 @@ namespace Innlevering_2.Guns
         {
             if (CooldownTimer <= 0 /*&& MagazineCount > 0*/)
             {
-                world.AddProjectile(new HandGrenade(player, player.getBulletSpawnPosition(), Vector2.Normalize(player.getReticulePosition() - player.Position) * 700, 5f));
+                world.AddProjectile(new HandGrenade(player, player.getBulletSpawnPosition(), Vector2.Normalize(player.getReticulePosition() - player.Position) * 1100, 1.5f));
+                //world.AddProjectile(new Grenade_SimpleFrag(player, player.getBulletSpawnPosition(), Vector2.Normalize(player.getReticulePosition() - player.Position) * 1100));
+
                 CooldownTimer = Cooldown;
                 //MagazineCount--;
             }

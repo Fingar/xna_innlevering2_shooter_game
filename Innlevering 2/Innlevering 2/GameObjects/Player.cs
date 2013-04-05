@@ -34,7 +34,7 @@ namespace Innlevering_2.GameObjects
 
         public bool Grounded { get; protected set; }
 
-        private int walkSlope = 5;
+        private int walkSlope = 8;
 
         private Sprite reticule;
 
@@ -105,10 +105,12 @@ namespace Innlevering_2.GameObjects
             Speed = 300;
 
             reticule = new Sprite(Game, "AimLaser");
-            bodyRunning = new Sprite(Game, "RunningSolider_NoArms");
-            bodyStandStill = new Sprite(Game, "SoliderStatic");
-            bodyInAir = new Sprite(Game, "SoliderJump");
-            arm = new Sprite(Game, "SoliderArm");
+
+            //Sprite
+            bodyRunning = new Sprite(Game, "Solider_Run");
+            bodyStandStill = new Sprite(Game, "Solider_StandStill");
+            bodyInAir = new Sprite(Game, "Solider_Jump");
+            arm = new Sprite(Game, "Solider_Arm");
 
             controller = new GamePadController(playerIndex);
 
@@ -177,7 +179,7 @@ namespace Innlevering_2.GameObjects
             }
             */
 
-            if (controller.gamePadState.ThumbSticks.Right.LengthSquared() > .75f)
+            if (controller.gamePadState.ThumbSticks.Right.LengthSquared() > .35f)
             {
                 reticuleAngle = (float)Math.Atan2(controller.gamePadState.ThumbSticks.Right.Y, controller.gamePadState.ThumbSticks.Right.X);
                 if (controller.gamePadState.ThumbSticks.Right.X < 0)
@@ -247,7 +249,7 @@ namespace Innlevering_2.GameObjects
         public bool TryWalk(Vector2 rel, ICollidable collision)
         {
             int tries = -walkSlope;
-            while (collision.Collide(new Rectangle(Bounds.X + (int)Math.Round(rel.X * (walkSlope - tries) / walkSlope), Bounds.Y + (int)Math.Round(rel.Y) - tries, Bounds.Width, Bounds.Height)) &&
+            while (collision.Collide(new Rectangle(Bounds.X + (int)Math.Round(rel.X), Bounds.Y + (int)Math.Round(rel.Y) - tries, Bounds.Width, Bounds.Height)) &&
                 tries < walkSlope)
             {
                 tries++;
@@ -263,7 +265,7 @@ namespace Innlevering_2.GameObjects
                 return true;
             }
 
-            move(rel * new Vector2((walkSlope - tries) / walkSlope, 1) - Vector2.UnitY * tries);
+            move(rel - Vector2.UnitY * tries);
             return true;
         }
         public bool TryMove(Vector2 rel, ICollidable collision)
